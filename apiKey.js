@@ -1,5 +1,5 @@
 const apiKey = "1HMD44hf3KHN3fda7dxCP9nFDP01br5b8HhmPvFjb";
-const appId = "type your own appId such as com.causeverse.varun.smallerfile";
+const appId = "com.causeverse.varun.smallerfile";
 export default {apiKey, appId};
 
 // For development on local computer and local network, use a development key
